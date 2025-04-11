@@ -1,5 +1,3 @@
-Certainly! Here's a restructured and polished version of your README for the Heart Risk Chatbot project, aligning with the format of the TennisVision project. All original information has been preserved, with improvements in clarity and organization.
-
 ---
 
 # 🫀 Heart Risk Chatbot: Cardiovascular Health Assistant
